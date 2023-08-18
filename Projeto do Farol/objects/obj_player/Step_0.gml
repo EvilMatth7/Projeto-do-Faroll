@@ -11,5 +11,3 @@ vsp = (move_down - move_up) * spd
 x += hsp
 y += vsp
 #endregion
-
-
