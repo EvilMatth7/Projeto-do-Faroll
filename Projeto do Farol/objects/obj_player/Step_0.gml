@@ -17,8 +17,6 @@ if place_meeting(x, y + vsp, obj_wall)
 {
 	vsp = 0
 }
-
-
+#endregion
 x += hsp
 y += vsp
-#endregion
