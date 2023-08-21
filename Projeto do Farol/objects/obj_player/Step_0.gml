@@ -8,15 +8,7 @@ var move_right = keyboard_check(vk_right)
 hsp = (move_right - move_left) * spd
 vsp = (move_down - move_up) * spd
 
-//Colisão
-if place_meeting(x + hsp, y, obj_wall)
-{
-	hsp = 0
-}
-if place_meeting(x, y + vsp, obj_wall)
-{
-	vsp = 0
-}
+
 #endregion
 x += hsp
 y += vsp
