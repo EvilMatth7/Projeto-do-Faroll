@@ -4,7 +4,7 @@
     {"name":"Caminhos","order":3,"path":"folders/Caminhos.yy",},
     {"name":"Cenas","order":9,"path":"folders/Cenas.yy",},
     {"name":"Conjuntos de tiles","order":1,"path":"folders/Conjuntos de tiles.yy",},
-    {"name":"Curvas da animação","order":11,"path":"folders/Curvas da animação.yy",},
+    {"name":"Curvas da animação","order":1,"path":"folders/Conjuntos de tiles/Curvas da animação.yy",},
     {"name":"Extensões","order":13,"path":"folders/Extensões.yy",},
     {"name":"Fontes","order":6,"path":"folders/Fontes.yy",},
     {"name":"Linhas do tempo","order":7,"path":"folders/Linhas do tempo.yy",},
@@ -17,7 +17,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"obj_camera","order":1,"path":"objects/obj_camera/obj_camera.yy",},
-    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"mapa","order":1,"path":"rooms/mapa/mapa.yy",},
     {"name":"obj_wall","order":2,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"Sprite5","order":4,"path":"sprites/Sprite5/Sprite5.yy",},
     {"name":"spr_wall","order":1,"path":"sprites/spr_wall/spr_wall.yy",},
