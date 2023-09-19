@@ -24,4 +24,4 @@ else {
 	
 	draw_sprite_ext(_sprite, 0, _guil - 100, _guia, -3, 3, 0, c_white, 1)
 	}
-}		
+}
