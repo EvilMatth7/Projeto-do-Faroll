@@ -20,7 +20,6 @@
     {"name":"obj_camera","order":1,"path":"objects/obj_camera/obj_camera.yy",},
     {"name":"spr_retrato_player","order":6,"path":"sprites/spr_retrato_player/spr_retrato_player.yy",},
     {"name":"obj_par_npc","order":5,"path":"objects/obj_par_npc/obj_par_npc.yy",},
-    {"name":"mapa","order":1,"path":"rooms/mapa/mapa.yy",},
     {"name":"spr_retrato_npc","order":7,"path":"sprites/spr_retrato_npc/spr_retrato_npc.yy",},
     {"name":"obj_wall","order":2,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"obj_dialogo","order":4,"path":"objects/obj_dialogo/obj_dialogo.yy",},
